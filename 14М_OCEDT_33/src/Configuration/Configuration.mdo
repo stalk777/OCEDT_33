@@ -47,5 +47,6 @@
   <catalogs>Catalog.СправочникДанных</catalogs>
   <documents>Document.ПриходТовара</documents>
   <documents>Document.ДокументИзКонфигуратора</documents>
+  <documents>Document.ПриемНаРаботу</documents>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
 </mdclass:Configuration>

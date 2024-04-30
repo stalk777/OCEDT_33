@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Document.ПриходТовара</content>
   <content>Document.ДокументИзКонфигуратора</content>
+  <content>Document.ПриемНаРаботу</content>
 </mdclass:Subsystem>
