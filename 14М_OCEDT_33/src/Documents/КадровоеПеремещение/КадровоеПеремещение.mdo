@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4dc8b1c9-7d88-419b-8500-8ea4dea1a968">
+  <producedTypes>
+    <objectType typeId="6033ee78-ee32-4aa7-beb9-307b62da4efe" valueTypeId="8912213a-781c-4903-a7ec-ff5092ca0b91"/>
+    <refType typeId="a26150c6-0c6e-4534-b236-e8a9bf36e02d" valueTypeId="173312ac-6d67-40c5-b535-8cc92deefb9d"/>
+    <selectionType typeId="990fabba-c9b8-41ab-b24c-381c7d58c4b8" valueTypeId="c4fdfdd5-06c5-4850-860c-c21b034f1911"/>
+    <listType typeId="9d39eddb-97ff-4c4c-9406-4262a9757b8f" valueTypeId="d73124cb-8dec-45e1-b3bf-6bf9b9f00a90"/>
+    <managerType typeId="342ff508-5505-486e-a459-56b4125cc99f" valueTypeId="b42eebe9-9cd2-47e6-8626-6ec3e3765d50"/>
+  </producedTypes>
+  <name>КадровоеПеремещение</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кадровое перемещение</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.КадровоеПеремещение.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultListForm>Document.КадровоеПеремещение.Form.ФормаСписка</defaultListForm>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <forms uuid="dd3ca0b9-1eb6-4955-b26b-d1bd763ffc6d">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Document>
