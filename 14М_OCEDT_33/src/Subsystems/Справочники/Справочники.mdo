@@ -11,4 +11,5 @@
   <content>Catalog.Номенклатура</content>
   <content>Catalog.СправочникИзКонфигуратора</content>
   <content>Catalog.Подразделения</content>
+  <content>Catalog.СправочникДанных</content>
 </mdclass:Subsystem>

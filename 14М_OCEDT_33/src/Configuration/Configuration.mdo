@@ -44,6 +44,7 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.СправочникИзКонфигуратора</catalogs>
   <catalogs>Catalog.Подразделения</catalogs>
+  <catalogs>Catalog.СправочникДанных</catalogs>
   <documents>Document.ПриходТовара</documents>
   <documents>Document.ДокументИзКонфигуратора</documents>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
