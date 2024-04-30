@@ -38,9 +38,12 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Справочники</subsystems>
+  <subsystems>Subsystem.Документы</subsystems>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.СправочникИзКонфигуратора</catalogs>
+  <catalogs>Catalog.Подразделения</catalogs>
   <documents>Document.ПриходТовара</documents>
   <documents>Document.ДокументИзКонфигуратора</documents>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
